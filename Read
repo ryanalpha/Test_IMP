@@ -1,0 +1,8 @@
+Project overview
+Tech stack yang digunakan: python, SQL, BI - Tools, Excel
+Setup instructions (step by step)
+How to run each component: using juptyer lab
+Sample outputs/results: hundred thousand transactions
+Performance considerations
+Future improvements: Redis, Integrated AI, Machine Learning
+Challenges faced dan solutions: Competitor get price is cheap and fast transcation, solution integrated with machine learning
